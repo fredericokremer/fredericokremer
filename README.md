@@ -7,7 +7,7 @@ My name is Frederico and i'm a:
 - python programmer and evangelist since 2012 :snake:. 
 
 As a researcher, my main interest is the application of machine learning methods in the fields of bioinformatics and chemoinformatics, aiming the development new tools
-to the de development of novel vaccines, drugs and diagnostics methods. 
+to help the development of novel vaccines, drugs and diagnostics methods. 
 
 please, contact by the following social networks or emails addresses:
 
